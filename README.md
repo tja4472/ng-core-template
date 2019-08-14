@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1. Fix versions.
 2. Install Prettier.
+3. Run Prettier.
 
 ## Development server
 
