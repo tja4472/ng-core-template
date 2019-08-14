@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
-1. Fix versions
+1. Fix versions.
+2. Install Prettier.
 
 ## Development server
 
