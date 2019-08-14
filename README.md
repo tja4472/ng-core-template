@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Install Prettier.
 3. Run Prettier.
 4. Install husky & lint-staged.
+5. Add Launch Chrome configuration.
 
 ## Development server
 
