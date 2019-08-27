@@ -12,7 +12,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prettier": "prettier --write \"**/*.{js,json,css,scss,less,md,ts,html,component.html}\""
+    "prettier": "prettier --write \"**/*.{js,json,css,scss,less,md,ts,html,component.html}\"",
+    "tslint-check": "tslint-config-prettier-check ./tslint.json"
   },
   "private": true,
   "dependencies": {
@@ -29,8 +30,8 @@
     "zone.js": "0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.802.2",
-    "@angular/cli": "8.2.2",
+    "@angular-devkit/build-angular": "0.803.0",
+    "@angular/cli": "8.3.0",
     "@angular/compiler-cli": "8.2.3",
     "@angular/language-service": "8.2.3",
     "@types/jasmine": "3.3.16",
@@ -50,6 +51,7 @@
     "protractor": "5.4.2",
     "ts-node": "7.0.1",
     "tslint": "5.19.0",
+    "tslint-config-prettier": "1.18.0",
     "typescript": "3.5.3"
   },
   "husky": {
